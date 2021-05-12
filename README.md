@@ -29,4 +29,4 @@ Driver used: *Mazepin*, *Giovenazzi*
 ### Yas marina
 I'm usually very lazy on Yas marina
 
-4 laps on hard with speed:🟨 - 4 laps on hard with speed:🟨
+4 laps ![image](https://user-images.githubusercontent.com/12453002/118038586-4eb82500-b33d-11eb-881a-34d252b4832a.png) with speed:🟨 - 4 laps ![image](https://user-images.githubusercontent.com/12453002/118038586-4eb82500-b33d-11eb-881a-34d252b4832a.png) with speed:🟨
