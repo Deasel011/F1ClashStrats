@@ -1,16 +1,18 @@
 # F1ClashStrats
 ## Season 6:
-Driver choice: *Mazepin*, *Giovenazzi*
+Driver used: *Mazepin*, *Giovenazzi*
 ### Baku
 #### Strategy
 4 laps ![image](https://user-images.githubusercontent.com/12453002/118038586-4eb82500-b33d-11eb-881a-34d252b4832a.png) - PIT - 4 laps ![image](https://user-images.githubusercontent.com/12453002/118038586-4eb82500-b33d-11eb-881a-34d252b4832a.png)
+
 **Lap 1 - 8**
 ![image](https://user-images.githubusercontent.com/12453002/118038928-bec6ab00-b33d-11eb-8c4d-9ae3bae93471.png)
 ### Sochi
 #### Strategy
 4 laps ![image](https://user-images.githubusercontent.com/12453002/118038586-4eb82500-b33d-11eb-881a-34d252b4832a.png) - PIT - 4 laps ![image](https://user-images.githubusercontent.com/12453002/118038586-4eb82500-b33d-11eb-881a-34d252b4832a.png)
-#### Speed management
-### Yas Marina
+
+**Lap 1 - 8**
+![image](https://user-images.githubusercontent.com/12453002/118048583-78c41400-b34a-11eb-826c-03eb70becd08.png)
 ### Monaco
 #### Strategy
 4 laps ![image](https://user-images.githubusercontent.com/12453002/118046096-d3f40780-b346-11eb-85c0-8d926effe7fa.png) - PIT - 4 laps ![image](https://user-images.githubusercontent.com/12453002/118038586-4eb82500-b33d-11eb-881a-34d252b4832a.png)
@@ -22,4 +24,9 @@ Driver choice: *Mazepin*, *Giovenazzi*
 ![image](https://user-images.githubusercontent.com/12453002/118045685-3d274b00-b346-11eb-9432-cfb3f6f2aacb.png)
 
 ##### Alternate strategy
-<span style="color: green">3 laps on soft</span> - <span style="color: red">5 laps on hard</span>
+3 laps on soft with speed:🟩 - 5 laps on hard with speed:🟥
+
+### Yas marina
+I'm usually very lazy on Yas marina
+
+4 laps on hard with speed:🟨 - 4 laps on hard with speed:🟨
