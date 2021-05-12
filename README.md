@@ -18,8 +18,6 @@ Nothing is really interesting to do in spa until you have higher parts and drive
 *boost around pit when opponents are pitting*
 
 3 laps ![image](https://user-images.githubusercontent.com/12453002/118038586-4eb82500-b33d-11eb-881a-34d252b4832a.png) with speed:🟨 - 3 laps ![image](https://user-images.githubusercontent.com/12453002/118038586-4eb82500-b33d-11eb-881a-34d252b4832a.png) with speed:🟨
-### Monza
-### Silverstone
 ## Season 6:
 Driver used: *Mazepin*, *Giovenazzi*
 ### Baku
